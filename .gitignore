@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# YOLO / generated files
+runs/
+*.pt
+
+# Generated images / results
+result.jpg
+temp_vs_time.png
+
+# Local input images
+bus.jpg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
